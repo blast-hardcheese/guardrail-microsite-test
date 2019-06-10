@@ -1,0 +1,11 @@
+name: Your Awesome Library Name
+baseurl: ''
+description: This is the description of my Awesome Library
+highlighter: rouge
+docs: true
+collections:
+  tut:
+    output: true
+version: 0.50.0-8-g0bef4eb-SNAPSHOT
+org: com.twilio
+markdown: kramdown
